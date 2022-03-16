@@ -1,0 +1,11 @@
+.navbar{
+    height: 1in;
+    background-color: #3d4b45;
+}
+
+.nav-link{
+    padding-top: .1in;
+    font-size: 20px;
+    font-family: Poppins;
+    color: white;
+}
